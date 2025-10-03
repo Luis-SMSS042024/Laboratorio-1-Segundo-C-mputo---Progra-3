@@ -8,12 +8,7 @@ from PyQt5.QtWidgets import (
 from PyQt5.QtCore import Qt
 
 class ControlNotas(QWidget):
-    """
-    Control de Notas de Estudiantes - PyQt5
-    Versión simplificada:
-    - Laboratorio 1 (25%), Laboratorio 2 (25%), Parcial (50%)
-    - Calcula promedio y estado
-    """
+
 
     W_LAB1 = 0.25
     W_LAB2 = 0.25
