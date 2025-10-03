@@ -1,0 +1,15 @@
+INTEGRANTES 
+-Luis Alexander Rivera Alvarez
+-Walter Jose Ramirez Perez 
+
+Planteamiento de la problemática
+
+En el ámbito educativo, uno de los principales retos que enfrentan los docentes es llevar un control eficiente y organizado de las calificaciones de los estudiantes. Generalmente, este registro se realiza de manera manual o mediante hojas de cálculo, lo que puede generar inconvenientes como errores en los cálculos de promedios, pérdida de información y dificultades para acceder o actualizar los datos de cada alumno.
+Ante esta situación, resulta necesario implementar una herramienta informática sencilla, intuitiva y accesible que permita automatizar el registro de notas, el cálculo de promedios y la determinación del estado académico de cada estudiante (aprobado o reprobado).
+Con este propósito, se propone el desarrollo de una aplicación de escritorio en Python utilizando la biblioteca PyQt5, la cual contará con una interfaz gráfica amigable que facilitará la gestión de calificaciones. Esta aplicación permitirá:
+Registrar el nombre del estudiante y su sección.
+Ingresar las notas obtenidas en Laboratorio 1, Laboratorio 2 y Parcial.
+Calcular automáticamente el promedio ponderado de acuerdo con la distribución establecida (25% + 25% + 50%).
+Mostrar de forma inmediata el estado académico del estudiante (Aprobado/Reprobado).
+Guardar y recuperar la información mediante archivos CSV para garantizar su respaldo y portabilidad.
+De esta manera, el programa responde a un problema de la vida real en el área educativa, contribuyendo a la mejora de la organización, la reducción de errores y la optimización del tiempo invertido en el proceso de evaluación de los estudiantes.
